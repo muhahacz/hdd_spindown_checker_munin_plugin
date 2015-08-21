@@ -13,3 +13,4 @@ user root
 sudo munin-run spindown
 
 /etc/init.d/munin-node reload
+
