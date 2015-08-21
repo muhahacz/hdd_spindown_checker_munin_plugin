@@ -1,0 +1,1 @@
+# hdd_spindown_checker_munin_plugin
