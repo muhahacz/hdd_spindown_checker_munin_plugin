@@ -8,6 +8,7 @@ sudo chmod +x /usr/share/munin/plugins/spindown
 sudo nano /etc/munin/plugin-conf.d/spindown
 
 [spindown]
+
 user root
 
 sudo munin-run spindown
